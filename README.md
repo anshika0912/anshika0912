@@ -1,9 +1,6 @@
 ### Hi there 👋
-<p align="center">
-  <a href="[[[https://www.anujvarshney.me](https://www.canva.com/design/DAFwOZdsOrI/A8zKx0WopuEBw-o4Y3h_wQ/edit?utm_content=DAFwOZdsOrI&utm_campaign=designshare&utm_medium=link2&utm_sour](https://www.canva.com/design/DAFwOZdsOrI/QmwelKVBweXTafRfWwOOYA/view?utm_content=DAFwOZdsOrI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))](https://www.canva.com/design/DAFwOZdsOrI/QmwelKVBweXTafRfWwOOYA/view)"><img alt="" src="Cover.png" width="100%" height="100%" /></a>
-</p>
 
-
+![jfgfujhyk](https://raw.githubusercontent.com/anshika0912/anshika0912/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <!--
 **anshika0912/anshika0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
