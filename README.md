@@ -11,7 +11,7 @@
 - ✈️ Love to travel and discover new cultures
 - 💡 Always eager to learn and embrace new challenges
 
-### Skills and Tools
+
 
 ### Skills and Tools
 
@@ -45,14 +45,19 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika0912&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Used" />
       </a>
     </td>
-   <td>
-      <h3>My Repositories</h3>
-      You can explore my repositories on [GitHub](https://github.com/anshika0912?tab=repositories).
-      <br />
-      <img src="https://github.com/anshika0912/anshika0912/raw/main/github-repo.gif" alt="My Repositories" />
-    </td>
+ <p align="left">
+  <a href="https://twitter.com/rembertdesigns" target="blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #1DA1F2; color: white; border: none; cursor: pointer; margin-right: 10px;">Follow on Twitter</button>
+  </a>
+  <a href="https://twitter.com/rembertdesigns" target="blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #1DA1F2; color: white; border: none; cursor: pointer;">Follow on Twitter</button>
+  </a>
+</p>
+
+
   </tr>
 </table>
+
 
 
 ### Connect with Me
