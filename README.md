@@ -47,11 +47,11 @@
     </td>
  <p align="left">
   <a href="https://twitter.com/rembertdesigns" target="blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #1DA1F2; color: white; border: none; cursor: pointer; margin-right: 10px;">Follow on Twitter</button>
+<!--     <button style="padding: 10px 20px; background-color: #1DA1F2; color: white; border: none; cursor: pointer; margin-right: 10px;">Follow on Twitter</button> -->
   </a>
-  <a href="https://twitter.com/rembertdesigns" target="blank" style="text-decoration: none;">
+<!--   <a href="https://twitter.com/rembertdesigns" target="blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; background-color: #1DA1F2; color: white; border: none; cursor: pointer;">Follow on Twitter</button>
-  </a>
+  </a> -->
 </p>
 
 
